@@ -1,0 +1,260 @@
+@media(min-width:576px){
+.col-sm-1{width: 8.33%; padding: 0 var(--gutter);}
+.col-sm-2{width: 16.66%;padding: 0 var(--gutter);}
+.col-sm-3{width: 25%;padding: 0 var(--gutter);}
+.col-sm-4{width: 33.33%;padding: 0 var(--gutter);}
+.col-sm-5{width: 41.66%;padding: 0 var(--gutter);}
+.col-sm-6{width: 50%;padding: 0 var(--gutter);}
+.col-sm-7{width: 58.33%;padding: 0 var(--gutter);}
+.col-sm-8{width: 66.66%;padding: 0 var(--gutter);}
+.col-sm-9{width: 75%;padding: 0 var(--gutter);}
+.col-sm-10{width: 83.33%;padding: 0 var(--gutter);}
+.col-sm-11{width: 91.66%;padding: 0 var(--gutter);}
+.col-sm-12{width: 100%;padding: 0 var(--gutter);}
+.container{
+    max-width: 540px;
+    margin: 0 auto;
+}
+.justify-sm-center{
+    justify-content: center;
+}
+/* deal start */
+.deal{
+    padding: 30px 0 50px 0;
+}
+/* top destination start */
+.watt{
+    font-size: 30px;
+    bottom: 80px;
+}
+
+}
+@media(min-width:768px){
+.col-md-1{width: 8.33%; padding: 0 var(--gutter);}
+.col-md-2{width: 16.66%;padding: 0 var(--gutter);}
+.col-md-3{width: 25%;padding: 0 var(--gutter);}
+.col-md-4{width: 33.33%;padding: 0 var(--gutter);}
+.col-md-5{width: 41.66%;padding: 0 var(--gutter);}
+.col-md-6{width: 50%;padding: 0 var(--gutter);}
+.col-md-7{width: 58.33%;padding: 0 var(--gutter);}
+.col-md-8{width: 66.66%;padding: 0 var(--gutter);}
+.col-md-9{width: 75%;padding: 0 var(--gutter);}
+.col-md-10{width: 83.33%;padding: 0 var(--gutter);}
+.col-md-11{width: 91.66%;padding: 0 var(--gutter);}
+.col-md-12{width: 100%;padding: 0 var(--gutter);}
+.container{
+    max-width: 720px;
+    margin: 0 auto;
+}
+header .menu{
+    display:flex;
+}
+header .bar{
+    display: none;
+}
+ /*deal start */
+ .deal{
+    padding:40px 0 70px 0 ;
+ }
+ /* best hotel start */
+ .hotel-dsc p{
+    font-size:13px ;
+}
+/* top destination start */
+.watt{
+    font-size: 35px;
+    bottom: 80px;
+}
+/* footer start */
+footer{
+    background-color: var(--brown);
+    padding: 15px 50px 10px ;
+}
+}
+@media(min-width:992px){
+.col-lg-1{width: 8.33%; padding: 0 var(--gutter);}
+.col-lg-2{width: 16.66%;padding: 0 var(--gutter);}
+.col-lg-3{width: 25%;padding: 0 var(--gutter);}
+.col-lg-4{width: 33.33%;padding: 0 var(--gutter);}
+.col-lg-5{width: 41.66%;padding: 0 var(--gutter);}
+.col-lg-6{width: 50%;padding: 0 var(--gutter);}
+.col-lg-7{width: 58.33%;padding: 0 var(--gutter);}
+.col-lg-8{width: 66.66%;padding: 0 var(--gutter);}
+.col-lg-9{width: 75%;padding: 0 var(--gutter);}
+.col-lg-10{width: 83.33%;padding: 0 var(--gutter);}
+.col-lg-11{width: 91.66%;padding: 0 var(--gutter);}
+.col-lg-12{width: 100%;padding: 0 var(--gutter);}
+.container{
+    max-width: 960px;
+    margin: 0 auto;
+}
+.py-100{
+    padding: 100px 0;
+}
+h1{
+    font-size: 35px;
+}
+h2{
+    font-size: 27px;
+}
+p{
+    font-size: 17px;
+}
+header{
+    padding: 50px;
+}
+header .logo img{
+    width: 150%;
+}
+.menu ul li a{
+    font-size: 20px;
+} 
+.main1{
+    height: 80vh;
+}
+.mask{
+    height: 80vh;
+}
+.main{
+    height: 80vh;
+}
+.clip{
+    height: -1vh;
+}
+/* high light start */
+.high-dsc p{
+    font-size: 21px;
+} 
+.high-dsc h3{
+    font-size: 27px;
+}
+.photo{
+    mask-size: 150px;
+}
+.photo img{
+    width: 165px;
+}
+/* best hotel start */
+.hotel-dsc p{
+    font-size:15px ;
+}
+/* top destination start */
+.watt{
+    font-size: 40px;
+    bottom: 80px;
+}
+.destination .dsc h2{
+    font-size: 30px;
+}
+.destination .dsc p{
+    font-size: 17px;
+}
+/* connect start */
+.contact{
+    padding: 60px 200px 30px ;
+}
+.contact button{
+    font-size: 20px;
+    padding: 18px;
+}
+.contact h2{
+    font-size: 30px;
+}
+.contact p{
+    font-size: 17px;
+}
+/* footer start */
+footer{
+    background-color: var(--brown);
+    padding: 20px 150px 15px ;
+}
+}
+@media(min-width:1200px){
+.col-xl-1{width: 8.33%; padding: 0 var(--gutter);}
+.col-xl-2{width: 16.66%;padding: 0 var(--gutter);}
+.col-xl-3{width: 25%;padding: 0 var(--gutter);}
+.col-xl-4{width: 33.33%;padding: 0 var(--gutter);}
+.col-xl-5{width: 41.66%;padding: 0 var(--gutter);}
+.col-xl-6{width: 50%;padding: 0 var(--gutter);}
+.col-xl-7{width: 58.33%;padding: 0 var(--gutter);}
+.col-xl-8{width: 66.66%;padding: 0 var(--gutter);}
+.col-xl-9{width: 75%;padding: 0 var(--gutter);}
+.col-xl-10{width: 83.33%;padding: 0 var(--gutter);}
+.col-xl-11{width: 91.66%;padding: 0 var(--gutter);}
+.col-xl-12{width: 100%;padding: 0 var(--gutter);}
+.container{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 30px;
+}
+p{
+    font-size: 21px;
+}
+/* main-banner start */
+.banner button{
+    padding: 15px;
+    font-size: 20px;
+}
+/* best hotels start */
+.hotel-dsc h2{
+    font-size: 30px;
+}
+.hotel-dsc p{
+    font-size:17px ;
+}
+.best-hotels .col-xl-4{
+    padding: 0 6px;
+}
+/* top destination start */
+.watt{
+    font-size: 45px;
+    bottom: 100px;
+}
+/* connect start */
+.contact{
+    padding: 80px 200px 40px ;
+}
+.contact button{
+    padding: 20px;
+}
+/* footer start */
+footer{
+    background-color: var(--brown);
+    padding: 30px 200px 20px ;
+}
+}
+@media(min-width:1400px){
+.col-xxl-1{width: 8.33%; padding: 0 var(--gutter);}
+.col-xxl-2{width: 16.66%;padding: 0 var(--gutter);}
+.col-xxl-3{width: 25%;padding: 0 var(--gutter);}
+.col-xxl-4{width: 33.33%;padding: 0 var(--gutter);}
+.col-xxl-5{width: 41.66%;padding: 0 var(--gutter);}
+.col-xxl-6{width: 50%;padding: 0 var(--gutter);}
+.col-xxl-7{width: 58.33%;padding: 0 var(--gutter);}
+.col-xxl-8{width: 66.66%;padding: 0 var(--gutter);}
+.col-xxl-9{width: 75%;padding: 0 var(--gutter);}
+.col-xxl-10{width: 83.33%;padding: 0 var(--gutter);}
+.col-xxl-11{width: 91.66%;padding: 0 var(--gutter);}
+.col-xxl-12{width: 100%;padding: 0 var(--gutter);}
+.container{
+    max-width: 1320px;
+    margin: 0 auto;
+}
+.main1{
+    height: 100vh;
+}
+.mask{
+    height: 100vh;
+}
+.main{
+    height: 100vh;
+}
+.clip{
+    height: -1vh;
+}
+}
